@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------------
 
- Template Name:Surfside Media
- Template URI: surfsidemedia.in
+ Template Name:Mcomps Limited
+ Template URI: McompsLimited.in
  Description: Ecommerce Website Project
- Author: Surfside Media
- Author URI: https://www.surfsidemedia.in/
+ Author: Mcomps Limited
+ Author URI: https://www.McompsLimited.in/
 
  ----------------------------------------------------------------------------------- */
 // 01.Tap to top js
